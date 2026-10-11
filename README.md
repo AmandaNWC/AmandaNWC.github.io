@@ -1,9 +1,7 @@
 # Nai-Wen Chi — Research Portfolio
 
-Static research website prepared for AmandaNWC.github.io.
+Research background in therapeutic biomaterials, current regulatory work, and reading notes on targeted nucleic-acid delivery.
 
-Upload the files from this archive directly to the repository root. In Settings → Pages, select Deploy from a branch, main, and / (root).
+Upload these files to the repository root and commit to main. Existing GitHub Pages settings can remain unchanged.
 
-Files: index.html, style.css, cd7.html, mp2.html, engagers.html, CV.pdf.
-
-The article notes document the limits of source verification.
+Page links open in new tabs. In-page navigation stays in the same tab. Email opens the visitor's mail application.
