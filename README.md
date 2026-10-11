@@ -1,4 +1,4 @@
-# Nai-Wen (Amanda) Chi — Research Portfolio
+# Nai-Wen Chi — Research Portfolio
 
 Static research website prepared for AmandaNWC.github.io.
 
