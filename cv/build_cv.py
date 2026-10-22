@@ -15,7 +15,7 @@ NAVY = colors.HexColor('#183548')
 GRAY = colors.HexColor('#53616A')
 WIDTH = A4[0] - 96
 styles = {
- 'body': ParagraphStyle('body', fontName='Times-Roman', fontSize=10.1, leading=12.8, spaceAfter=3.6),
+ 'body': ParagraphStyle('body', fontName='Times-Roman', fontSize=10.1, leading=12.4, spaceAfter=3.2),
  'small': ParagraphStyle('small', fontName='Times-Roman', fontSize=9.25, leading=11.5, spaceAfter=3),
  'title': ParagraphStyle('title', fontName='Helvetica-Bold', fontSize=10, leading=12.6, textColor=NAVY),
  'org': ParagraphStyle('org', fontName='Times-Italic', fontSize=10, leading=12.5, textColor=GRAY, spaceAfter=3),
@@ -37,7 +37,7 @@ def entry(item, bullets=True):
             result.append(Paragraph(escape(text), ParagraphStyle('bullet',parent=styles['body'],leftIndent=10,firstLineIndent=-8),bulletText='-'))
     else:
         result.append(p(escape(item['detail']),'small'))
-    result.append(Spacer(1,4))
+    result.append(Spacer(1,3))
     return KeepTogether(result)
 
 def footer(canvas, doc):
@@ -74,3 +74,4 @@ for text in DATA['additional']:
 OUT.parent.mkdir(parents=True,exist_ok=True)
 SimpleDocTemplate(str(OUT), pagesize=A4,rightMargin=48,leftMargin=48,topMargin=48,bottomMargin=51,title='Nai-Wen Chi | Academic CV',author=DATA['name'],subject='Research experience, publications, patents and academic background').build(story,onFirstPage=footer,onLaterPages=footer)
 print(OUT)
+
