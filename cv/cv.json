@@ -1,0 +1,139 @@
+{
+  "name": "Nai-Wen Chi",
+  "location": "San Diego, California",
+  "email": "naiwen.amanda.chi@gmail.com",
+  "updated": "October 2026",
+  "interests": "Biomaterials and drug delivery for tissue repair; material-cell interactions; targeted delivery and functional evaluation of genetic medicines.",
+  "education": [
+    {
+      "title": "M.S., Biomedical Engineering",
+      "date": "Feb 2015 - Jan 2017",
+      "org": "National Tsing Hua University, Taiwan",
+      "detail": "GPA: 4.05/4.30. Thesis research: nitric-oxide-releasing microparticles for osteoporosis therapy."
+    },
+    {
+      "title": "B.S., Agronomy",
+      "date": "Sep 2008 - Jun 2012",
+      "org": "National Chung Hsing University, Taiwan",
+      "detail": "GPA: 3.25/4.00."
+    }
+  ],
+  "research": [
+    {
+      "title": "R&D and Regulatory Scientist",
+      "date": "Dec 2025 - Present",
+      "org": "Coastar Therapeutics, California",
+      "bullets": [
+        "Support regulatory gap analysis and evaluation of development evidence for therapeutic programs."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "date": "Apr 2025 - Nov 2025",
+      "org": "Academia Sinica, Taiwan | Dr. Yu-Jung Lin",
+      "bullets": [
+        "Prepared polymer conjugates and ligand-modified nanoparticles; adjusted formulation and purification conditions for drug-delivery research.",
+        "Measured particle size and zeta potential and quantified drug loading by HPLC; prepared alginate hydrogels and evaluated gelation time."
+      ]
+    },
+    {
+      "title": "R&D Engineer",
+      "date": "Jan 2018 - Mar 2021",
+      "org": "BioGend Therapeutics, Taiwan",
+      "bullets": [
+        "Developed tyramine-alginate hydrogel systems for cartilage adhesion and regeneration; co-authored the 2022 International Journal of Biological Macromolecules paper listed on page 2.",
+        "Contributed to cartilage-repair implant development through scaffold fabrication and mechanical testing; supported mini-pig studies and surgical usability evaluation.",
+        "Provided technical support during human clinical surgical cases, including equipment setup and instrument sterilization coordination; contributed to regulatory documentation.",
+        "Named co-inventor on cartilage filling, cartilage measurement, and dry-heating device patents and applications."
+      ]
+    },
+    {
+      "title": "R&D Engineer",
+      "date": "May 2017 - Dec 2017",
+      "org": "Exactech Taiwan Ltd., Taiwan",
+      "bullets": [
+        "Supported R&D projects and clinical trials for Class III medical devices. The Taiwan operation was acquired by BioGend in January 2018."
+      ]
+    },
+    {
+      "title": "Master's Research | Nitric Oxide Delivery for Osteoporosis",
+      "date": "2015 - 2017",
+      "org": "National Tsing Hua University, Taiwan",
+      "bullets": [
+        "Developed phase-change delivery systems for nitric oxide (NO); performed in vitro assays and in vivo studies using an ovariectomized rat model of osteoporosis.",
+        "Contributed to the 2018 Advanced Materials paper and was named co-inventor on a temperature-responsive delivery composition patent family."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "authors": "Wong CC, Lu CX, Cho EC, Lee PW, <b>Chi NW</b>, Lin PY, Jheng PR, Chen HL, Mansel BW, Chen YM, Chen CH, Chuang EY.",
+      "title": "Calcium peroxide aids tyramine-alginate gel to crosslink with tyrosinase for efficient cartilage repair.",
+      "journal": "International Journal of Biological Macromolecules",
+      "citation": "2022;208:299-313",
+      "doi": "10.1016/j.ijbiomac.2022.03.044"
+    },
+    {
+      "authors": "Lin YJ, Chen CC, <b>Chi NW</b>, Nguyen T, Lu HY, Nguyen D, Lai PL, Sung HW.",
+      "title": "In Situ Self-Assembling Micellar Depots that Can Actively Trap and Passively Release NO with Long-Lasting Activity to Reverse Osteoporosis.",
+      "journal": "Advanced Materials",
+      "citation": "2018;30(22):1705605",
+      "doi": "10.1002/adma.201705605"
+    }
+  ],
+  "patents": [
+    {
+      "title": "Temperature-responsive composition, method for fabricating, and use thereof",
+      "detail": "National Tsing Hua University. Taiwan invention patent <link href='https://patents.google.com/patent/TWI606829B/en'>TWI606829B</link> (2017; subsequently lapsed for non-payment of fees). U.S. published application <link href='https://patents.google.com/patent/US20180161276A1/en'>US20180161276A1</link> (2018; abandoned)."
+    },
+    {
+      "title": "Cartilage filling system and surgical instrument set including the same",
+      "detail": "BioGend Therapeutics. Utility models <link href='https://patents.google.com/patent/TWM594960U/en'>TWM594960U</link> (2020) and <link href='https://patents.google.com/patent/CN212730081U/en'>CN212730081U</link> (2021). U.S. counterpart, published as <link href='https://patents.google.com/patent/US20210252227A1/en'>US20210252227A1</link> (2021), abandoned."
+    },
+    {
+      "title": "Cartilage volumetric device and surgical instrument set including the same",
+      "detail": "BioGend Therapeutics. Utility models <link href='https://patents.google.com/patent/TWM594437U/en'>TWM594437U</link> (2020) and <link href='https://patents.google.com/patent/CN212729944U/en'>CN212729944U</link> (2021; English title: Cartilage quantifier and surgical instrument set)."
+    },
+    {
+      "title": "Dry type heating device",
+      "detail": "BioGend Therapeutics. Utility models <link href='https://patents.google.com/patent/TWM590460U/en'>TWM590460U</link> (2020) and <link href='https://patents.google.com/patent/CN211454393U/en'>CN211454393U</link> (2020)."
+    }
+  ],
+  "regulatory": [
+    {
+      "title": "Senior Regulatory Affairs Specialist",
+      "date": "May 2022 - Jul 2023",
+      "org": "Winnoz Technology, Taiwan",
+      "bullets": [
+        "Led TFDA medical-device license applications and amendments; prepared EU IVDR and U.S. FDA IVD submission documentation and supported ISO 13485 and TFDA QMS audits."
+      ]
+    },
+    {
+      "title": "Regulatory Affairs Specialist / Project Manager",
+      "date": "Apr 2021 - May 2022",
+      "org": "BioGend Therapeutics, Taiwan",
+      "bullets": [
+        "Managed TFDA Class I-III device applications; led a Class II application and coordinated supporting preclinical evidence. Supported design controls, ISO 13485 and TFDA QMS audits, and international documentation including EU MDR requirements."
+      ]
+    }
+  ],
+  "skills": [
+    [
+      "Materials & delivery",
+      "Polymer conjugation and ligand modification; nanoparticle and liposome preparation; scaffold and alginate-hydrogel fabrication."
+    ],
+    [
+      "Characterization",
+      "DLS and zeta potential; HPLC drug-loading analysis; gelation-time and mechanical testing; sample preparation for NMR and GPC."
+    ],
+    [
+      "Biological evaluation",
+      "In vitro assays; ovariectomized rat osteoporosis studies; support for mini-pig studies. WST-1, ALP activity, Alizarin Red S, H&E histology, serum ALP and osteocalcin."
+    ]
+  ],
+  "additional": [
+    "<b>Chief Executive Officer & Project Manager, Wen Fu AI Co., Taiwan</b> (Jul 2023 - Mar 2024). Founded a small technology venture; managed online-course and AI-assisted website projects, including scope, schedules, and client communication.",
+    "<b>Graduate study preparation, Taiwan</b> (Mar 2024 - Mar 2025). Prepared doctoral applications and completed English proficiency testing.",
+    "<b>Languages:</b> Mandarin (native); English (professional working proficiency)."
+  ]
+}
